@@ -2,7 +2,7 @@
 
 Este repositorio contiene el análisis detallado de una cartera financiera desarrollado en R.
 
-## 📄 [CLIC AQUÍ PARA VER EL INFORME FINAL (PDF)](Trabajo_Portafolio__Finanzas%202.pdf)
+## 📄 [CLIC AQUÍ PARA VER EL INFORME FINAL (PDF)](Trabajo_Portafolio___Finanzas 2.pdf)
 
 ---
 
