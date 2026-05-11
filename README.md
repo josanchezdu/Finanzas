@@ -1,6 +1,6 @@
 # Análisis Cuantitativo de Cartera de Activos
 
-Este repositorio contiene el análisis detallado de una cartera financiera desarrollado en R.
+Optimización robusta de portafolios financieros en R. Implementación de modelos de Markowitz y CAPM para la gestión de la Frontera Eficiente y riesgo sistemático. Evaluación avanzada de exposición de capital mediante métricas VaR y CVaR, cuestionando los supuestos de normalidad en rendimientos. 
 
 ## 📄 [CLIC AQUÍ PARA VER EL INFORME FINAL (PDF)](Trabajo_Portafolio_Finanzas.pdf)
 
